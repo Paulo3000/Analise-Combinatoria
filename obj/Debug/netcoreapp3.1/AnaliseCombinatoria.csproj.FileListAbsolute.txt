@@ -1,0 +1,11 @@
+C:\Users\Paulo\source\repos\AnaliseCombinatoria\AnaliseCombinatoria\bin\Debug\netcoreapp3.1\AnaliseCombinatoria.exe
+C:\Users\Paulo\source\repos\AnaliseCombinatoria\AnaliseCombinatoria\bin\Debug\netcoreapp3.1\AnaliseCombinatoria.deps.json
+C:\Users\Paulo\source\repos\AnaliseCombinatoria\AnaliseCombinatoria\bin\Debug\netcoreapp3.1\AnaliseCombinatoria.runtimeconfig.json
+C:\Users\Paulo\source\repos\AnaliseCombinatoria\AnaliseCombinatoria\bin\Debug\netcoreapp3.1\AnaliseCombinatoria.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\AnaliseCombinatoria\AnaliseCombinatoria\bin\Debug\netcoreapp3.1\AnaliseCombinatoria.dll
+C:\Users\Paulo\source\repos\AnaliseCombinatoria\AnaliseCombinatoria\bin\Debug\netcoreapp3.1\AnaliseCombinatoria.pdb
+C:\Users\Paulo\source\repos\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\netcoreapp3.1\AnaliseCombinatoria.csprojAssemblyReference.cache
+C:\Users\Paulo\source\repos\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\netcoreapp3.1\AnaliseCombinatoria.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\netcoreapp3.1\AnaliseCombinatoria.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\netcoreapp3.1\AnaliseCombinatoria.dll
+C:\Users\Paulo\source\repos\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\netcoreapp3.1\AnaliseCombinatoria.pdb
